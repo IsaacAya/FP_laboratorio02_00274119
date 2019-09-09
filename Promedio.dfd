@@ -1,0 +1,36 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+48
+'Ingrese tres numeros para sacarle el promedio' 
+5
+1
+5
+A,B,C
+6
+1
+1
+X
+9
+(A+B+C)/3
+7
+0
+1
+3
+X>6
+4
+1
+53
+'El promedio es ' ,X, ' por lo tanto, es menor que 6'
+13
+4
+1
+53
+'El promedio es ' ,X, ' por lo tanto, es mayor que 6'
+13
+1

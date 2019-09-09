@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+18
+'Ingrese A, B y C'
+5
+1
+5
+A,B,C
+6
+2
+1
+X
+24
+(-b+sqrt(b^2-4*A*C))/2*A
+1
+Y
+24
+(-b-sqrt(b^2-4*A*C))/2*A
+4
+1
+55
+'El valor de X1 es de ' ,X, ' el valor de X2 es de ' ,Y
+1
